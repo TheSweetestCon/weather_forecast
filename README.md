@@ -1,8 +1,7 @@
-# React + Vite
+# Previsão do Tempo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação web para ver a previsão do tempo de acordo com a cidade informada.
 
-Currently, two official plugins are available:
+Necessário ter instalado o Node.Js. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1 - Abra o terminal na pasta root do aplicativo e execute o comando "npm run dev".
